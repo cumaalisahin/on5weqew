@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Ondestek Kontrol Paneli</title>
+    <link href="resources/css/styles.css?r=21" rel="stylesheet" type="text/css" />
+    <!--[if IE]> <link href="resources/css/ie.css" rel="stylesheet" type="text/css"> <![endif]-->
+    <link rel="icon" type="image/png" href="resources/images/favicon.png" />
+
+    <script type="text/javascript" src="resources/js/store.js"></script>
+    <script type="text/javascript">
+        var hasToken = Store.has("token");
+        if (!hasToken) {
+            window.location = './login';
+        }
+    </script>
+
+    <script type="text/javascript" src="resources/js/jquery.min.js"></script>
+    <script type="text/javascript" src="resources/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="resources/js/client.lib.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/forms/jquery.uniform.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/ui/jquery.tipsy.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/forms/switchery.min.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/ui/spectrum.min.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/jquery.hashchange.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/forms/jquery.select2.min.js"></script>
+    <script type="text/javascript" src="resources/js/jquery-chart/highcharts.js"></script>
+    <script type="text/javascript" src="resources/js/jquery-chart/modules/exporting.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/intro.min.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/jquery.textcomplete.min.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/scroll/perfect-scrollbar.jquery.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/forms/jquery.tagsinput.min.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/howler.min.js?r=2"></script>
+    <script type="text/javascript" src="resources/js/plugins/uploader/plupload.full.min.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/jquery.cookie.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/moment/moment.min.js"></script>
+    <!-- <script type="text/javascript" src="resources/js/plugins/moment/moment-timezone-with-data.min.js"></script> -->
+
+    <script type="text/javascript" src="resources/js/plugins/rangeslider/elessar.js"></script>
+    <script type="text/javascript" src="resources/js/plugins/sweetalert.min.js"></script>
+
+
+    <script type="text/javascript" src="resources/js/files/bootstrap.js"></script>
+    <script type="text/javascript" src="resources/js/files/common.js?r=21"></script>
+    <script type="text/javascript" src="resources/js/files/form.js?r=2"></script>
+    <script type="text/javascript" src="resources/js/store.js"></script> 
+    <script type="text/javascript">
+
+        var headers = {'X_AUTH_TOKEN': Store.get("token")};
+        Store.remove("tempAccount");
+        if ('' !== '') {
+            headers['TEMP_ACCOUNT'] = "${tempAccount}";
+            Store.set("tempAccount", "${tempAccount}");
+        }
+
+        var additionalHeaders = [];
+
+        var ajaxConfig = {
+            cache: true,
+            headers: headers,
+            //global filter that decodes html in error messages (success:false)
+            dataFilter: function (data, type) {
+                if (type === 'json') {
+                    var response = JSON.parse(data);
+                    if (response.success === false && typeof response.msg !== 'undefined') {
+                        response.msg = decodeHtml(response.msg);
+                        return JSON.stringify(response);
+                    }
+                }
+                return data;
+            },
+            beforeSend: function (xhr) {
+                additionalHeaders.each(function (v) {
+                    xhr.setRequestHeader(v.name, v.value);
+                })
+            }
+        }
+
+        $.ajaxSetup(ajaxConfig);
+
+        var connectionErrorCount = 0;
+
+        //global ajax handlers
+        $(document).ajaxError(function (e, xhr, ajaxOptions, thrownError) {
+            if (xhr.status == 401) {
+                Store.remove("token");
+                Store.remove("online");
+                window.location = './login';
+            }
+
+            if (xhr.status == 0 || xhr.status == 503) {
+
+                if (connectionErrorCount < 5) {
+                    connectionErrorCount++;
+                    return;
+                }
+
+                if ($("#connectionProblemDialog").hasClass('ui-dialog-content')) {
+                    $("#connectionProblemDialog").dialog("destroy");
+                }
+
+                connectionErrorCount = 0;
+                var html = "<p>Şu an sunucu ile bağlantınız kesilmiş görünüyor ";
+                html += "Bu durum geçici network arızasından veya sunucunun bakım nedeniyle kapalı olmasından kaynaklanabilir.</p>";
+                html += "<p>Lütfen daha sonra tekrar deneyiniz.</p>";
+
+                $("#connectionProblemDialog").html(html);
+
+                $("#connectionProblemDialog").dialog({
+                    title: "Bağlantı Hatası",
+                    width: 380,
+                    height: 210,
+                    modal: true,
+                    buttons: {
+                        'retry': {
+                            text: "Yeniden Dene",
+                            click: function () {
+                                $("#connectionProblemDialog").dialog("destroy");
+                                $.get("./services/active", function (result) {});
+                            }
+                        },
+                        'cancel': {
+                            text: "Kapat",
+                            click: function () {
+                                $("#connectionProblemDialog").dialog("destroy");
+                                window.location = "./";
+                            }
+                        }
+                    }
+                });
+            }
+
+        });
+
+        $(function () {
+            $("body").load("./main");
+        });
+
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N6C2BCW');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6C2BCW"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="loading-container">
+    <div id="loading-message">
+		<img src="resources/images/ondestek-small.png" style="width:48px; display: inline;" />
+    </div>
+</div>
+</body>
+</html>

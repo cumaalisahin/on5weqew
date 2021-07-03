@@ -1,0 +1,384 @@
+Uri: https://ondestek.com/
+File Name: H:\website copy\ondestek.com\index.htm
+Content Type: text/html
+
+Uri: https://ondestek.com/themes/default/images/favicon.png
+File Name: H:\website copy\ondestek.com\themes\default\images\favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700,300&subset=latin,latin-ext
+File Name: H:\website copy\ondestek.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700,300&subset=latin,latin-ext
+File Name: H:\website copy\ondestek.com\css-1.css
+Content Type: text/css
+
+Uri: https://ondestek.com/themes/default/css/bootstrap.min.css
+File Name: H:\website copy\ondestek.com\themes\default\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ondestek.com/themes/default/css/font-awesome.min.css
+File Name: H:\website copy\ondestek.com\themes\default\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ondestek.com/themes/default/css/style-minify.css?v=8
+File Name: H:\website copy\ondestek.com\themes\default\css\style-minify.css
+Content Type: text/css
+
+Uri: https://ondestek.com/tr/
+File Name: H:\website copy\ondestek.com\tr\index.htm
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/features
+File Name: H:\website copy\ondestek.com\tr\features.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/pricing
+File Name: H:\website copy\ondestek.com\tr\pricing.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/success-stories
+File Name: H:\website copy\ondestek.com\tr\success-stories.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/contact-us
+File Name: H:\website copy\ondestek.com\tr\contact-us.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/signup
+File Name: H:\website copy\ondestek.com\tr\signup.html
+Content Type: text/html
+
+Uri: https://play.google.com/store/apps/details?id=com.ondestek&hl=tr
+File Name: H:\website copy\ondestek.com\store\apps\details.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/chatbot
+File Name: H:\website copy\ondestek.com\tr\chatbot.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/ondestek-api
+File Name: H:\website copy\ondestek.com\tr\ondestek-api.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/careers
+File Name: H:\website copy\ondestek.com\tr\careers.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/kullanici-sozlesmesi
+File Name: H:\website copy\ondestek.com\tr\kullanici-sozlesmesi.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/gizlilik-politikasi
+File Name: H:\website copy\ondestek.com\tr\gizlilik-politikasi.html
+Content Type: text/html
+
+Uri: https://ondestek.com/tr/iptal-iade-kosullari
+File Name: H:\website copy\ondestek.com\tr\iptal-iade-kosullari.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/OnDestek/
+File Name: H:\website copy\ondestek.com\OnDestek\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/Ondestek
+File Name: H:\website copy\ondestek.com\Ondestek.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/ondestek/
+File Name: H:\website copy\ondestek.com\ondestek\index-1.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCmvWp_ZT0DENVYMqIdvYRDg
+File Name: H:\website copy\ondestek.com\channel\UCmvWp_ZT0DENVYMqIdvYRDg.html
+Content Type: text/html
+
+Uri: https://ondestek.com/themes/default/css/modal-video.min.css
+File Name: H:\website copy\ondestek.com\themes\default\css\modal-video.min.css
+Content Type: text/css
+
+Uri: https://ondestek.com/themes/default/popup/demos/css/notification_banner.css
+File Name: H:\website copy\ondestek.com\themes\default\popup\demos\css\notification_banner.css
+Content Type: text/css
+
+Uri: https://ondestek.com/themes/default/popup/demos/css/coupon_code.css
+File Name: H:\website copy\ondestek.com\themes\default\popup\demos\css\coupon_code.css
+Content Type: text/css
+
+Uri: https://ondestek.com/themes/default/popup/demos/css/alert_2.css
+File Name: H:\website copy\ondestek.com\themes\default\popup\demos\css\alert_2.css
+Content Type: text/css
+
+Uri: https://ondestek.com/themes/default/popup/plugin/css/slickmodal.min.css
+File Name: H:\website copy\ondestek.com\themes\default\popup\plugin\css\slickmodal.min.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-N6C2BCW
+File Name: H:\website copy\ondestek.com\ns.html
+Content Type: text/html
+
+Uri: https://ondestek.com/themes/default/images/ondestek-home-usage1.png
+File Name: H:\website copy\ondestek.com\themes\default\images\ondestek-home-usage1.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/references/anadolu-grubu-logo.png
+File Name: H:\website copy\ondestek.com\themes\default\images\references\anadolu-grubu-logo.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/references/cilek.png
+File Name: H:\website copy\ondestek.com\themes\default\images\references\cilek.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/references/ticaret.png
+File Name: H:\website copy\ondestek.com\themes\default\images\references\ticaret.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/references/sinpas.png
+File Name: H:\website copy\ondestek.com\themes\default\images\references\sinpas.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/references/knauf.jpg
+File Name: H:\website copy\ondestek.com\themes\default\images\references\knauf.jpg
+Content Type: image/jpeg
+
+Uri: https://ondestek.com/themes/default/images/references/gophastanesi.png
+File Name: H:\website copy\ondestek.com\themes\default\images\references\gophastanesi.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/increase-sales.svg
+File Name: H:\website copy\ondestek.com\themes\default\images\increase-sales.svg
+Content Type: image/svg+xml
+
+Uri: https://ondestek.com/themes/default/images/support_user_hold_care.svg
+File Name: H:\website copy\ondestek.com\themes\default\images\support_user_hold_care.svg
+Content Type: image/svg+xml
+
+Uri: https://ondestek.com/themes/default/images/lead.svg
+File Name: H:\website copy\ondestek.com\themes\default\images\lead.svg
+Content Type: image/svg+xml
+
+Uri: https://ondestek.com/themes/default/images/andpastel.jpg
+File Name: H:\website copy\ondestek.com\themes\default\images\andpastel.jpg
+Content Type: image/jpeg
+
+Uri: https://ondestek.com/themes/default/images/chat-screen.jpg
+File Name: H:\website copy\ondestek.com\themes\default\images\chat-screen.jpg
+Content Type: image/jpeg
+
+Uri: https://ondestek.com/themes/default/images/turkiye-yerli-canli-destek-sistemi.png
+File Name: H:\website copy\ondestek.com\themes\default\images\turkiye-yerli-canli-destek-sistemi.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/mobile-apps.png
+File Name: H:\website copy\ondestek.com\themes\default\images\mobile-apps.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/entegrasyonlar.png
+File Name: H:\website copy\ondestek.com\themes\default\images\entegrasyonlar.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/js/jquery-1.11.2.min.js
+File Name: H:\website copy\ondestek.com\themes\default\js\jquery-1.11.2.min.js
+Content Type: application/javascript
+
+Uri: https://ondestek.com/themes/default/js/bootstrap.min.js
+File Name: H:\website copy\ondestek.com\themes\default\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ondestek.com/themes/default/js/jquery-modal-video.min.js
+File Name: H:\website copy\ondestek.com\themes\default\js\jquery-modal-video.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/prism/1.6.0/prism.min.js
+File Name: H:\website copy\ondestek.com\ajax\libs\prism\1.6.0\prism.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js
+File Name: H:\website copy\ondestek.com\ajax\libs\clipboard.js\1.7.1\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://ondestek.com/themes/default/js/code-box-copy.js
+File Name: H:\website copy\ondestek.com\themes\default\js\code-box-copy.js
+Content Type: application/javascript
+
+Uri: https://ondestek.com/themes/default/popup/demos/js/countDown.js
+File Name: H:\website copy\ondestek.com\themes\default\popup\demos\js\countDown.js
+Content Type: application/javascript
+
+Uri: https://ondestek.com/themes/default/popup/demos/js/coupon_code.js
+File Name: H:\website copy\ondestek.com\themes\default\popup\demos\js\coupon_code.js
+Content Type: application/javascript
+
+Uri: https://ondestek.com/themes/default/popup/plugin/js/jquery.slickmodal.min.js
+File Name: H:\website copy\ondestek.com\themes\default\popup\plugin\js\jquery.slickmodal.min.js
+Content Type: application/javascript
+
+Uri: https://ondestek.com/themes/default/js/main.js?v=14
+File Name: H:\website copy\ondestek.com\themes\default\js\main.js
+Content Type: application/javascript
+
+Uri: https://js.hs-scripts.com/4255395.js
+File Name: H:\website copy\ondestek.com\4255395.js
+Content Type: application/javascript
+
+Uri: https://ondestek.com/themes/default/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: H:\website copy\ondestek.com\themes\default\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ondestek.com/themes/default/fonts/fontawesome-webfont.eot?
+File Name: H:\website copy\ondestek.com\themes\default\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ondestek.com/themes/default/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: H:\website copy\ondestek.com\themes\default\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ondestek.com/themes/default/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: H:\website copy\ondestek.com\themes\default\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://ondestek.com/themes/default/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: H:\website copy\ondestek.com\themes\default\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://ondestek.com/themes/default/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: H:\website copy\ondestek.com\themes\default\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ondestek.com/themes/default/images/home-bg.png
+File Name: H:\website copy\ondestek.com\themes\default\images\home-bg.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/home-feature-bg.png
+File Name: H:\website copy\ondestek.com\themes\default\images\home-feature-bg.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/news-bar.gif
+File Name: H:\website copy\ondestek.com\themes\default\images\news-bar.gif
+Content Type: image/gif
+
+Uri: https://ondestek.com/themes/default/images/bg_shadow.png
+File Name: H:\website copy\ondestek.com\themes\default\images\bg_shadow.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/form_ok.png
+File Name: H:\website copy\ondestek.com\themes\default\images\form_ok.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/ic-copy.svg
+File Name: H:\website copy\ondestek.com\themes\default\images\ic-copy.svg
+Content Type: image/svg+xml
+
+Uri: https://ondestek.com/themes/default/images/contact-bg.png
+File Name: H:\website copy\ondestek.com\themes\default\images\contact-bg.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/chatbot_main.png
+File Name: H:\website copy\ondestek.com\themes\default\images\chatbot_main.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/chatbot_features_background.png
+File Name: H:\website copy\ondestek.com\themes\default\images\chatbot_features_background.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/chatbot_rocket2.jpg
+File Name: H:\website copy\ondestek.com\themes\default\images\chatbot_rocket2.jpg
+Content Type: image/jpeg
+
+Uri: https://ondestek.com/themes/default/images/ticaret-background.png
+File Name: H:\website copy\ondestek.com\themes\default\images\ticaret-background.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/ticaret-last-background.png
+File Name: H:\website copy\ondestek.com\themes\default\images\ticaret-last-background.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/guzel.png
+File Name: H:\website copy\ondestek.com\themes\default\images\guzel.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/packet-standart.png
+File Name: H:\website copy\ondestek.com\themes\default\images\packet-standart.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/packet-kurumsal.png
+File Name: H:\website copy\ondestek.com\themes\default\images\packet-kurumsal.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/packet-pro.png
+File Name: H:\website copy\ondestek.com\themes\default\images\packet-pro.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/uskudar-uni.jpg
+File Name: H:\website copy\ondestek.com\themes\default\images\uskudar-uni.jpg
+Content Type: image/jpeg
+
+Uri: https://ondestek.com/themes/default/images/incehesap.jpg
+File Name: H:\website copy\ondestek.com\themes\default\images\incehesap.jpg
+Content Type: image/jpeg
+
+Uri: https://ondestek.com/themes/default/images/gunes.png
+File Name: H:\website copy\ondestek.com\themes\default\images\gunes.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/contact-us.png
+File Name: H:\website copy\ondestek.com\themes\default\images\contact-us.png
+Content Type: image/png
+
+Uri: https://panel.ondestek.com/app
+File Name: H:\website copy\ondestek.com\app.html
+Content Type: text/html
+
+Uri: https://apps.apple.com/tr/app/ondestek/id1250066949?mt=8
+File Name: H:\website copy\ondestek.com\tr\app\ondestek\id1250066949.html
+Content Type: text/html
+
+Uri: https://ondestek.com/themes/default/images/chatbot_terzi_2.png
+File Name: H:\website copy\ondestek.com\themes\default\images\chatbot_terzi_2.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/chatbot_features_2.png
+File Name: H:\website copy\ondestek.com\themes\default\images\chatbot_features_2.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/chatbot_features_robot _2.png
+File Name: H:\website copy\ondestek.com\themes\default\images\chatbot_features_robot _2.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/chatbot_team.png
+File Name: H:\website copy\ondestek.com\themes\default\images\chatbot_team.png
+Content Type: image/png
+
+Uri: https://go.chatmaster.io/embed/embed.js
+File Name: H:\website copy\ondestek.com\embed\embed.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/prism/1.6.0/themes/prism.min.css
+File Name: H:\website copy\ondestek.com\ajax\libs\prism\1.6.0\themes\prism.min.css
+Content Type: text/css
+
+Uri: https://ondestek.com/themes/default/images/sistemkuran.png
+File Name: H:\website copy\ondestek.com\themes\default\images\sistemkuran.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/is_ilani.png
+File Name: H:\website copy\ondestek.com\themes\default\images\is_ilani.png
+Content Type: image/png
+
+Uri: https://ondestek.com/themes/default/images/glengarry.jpg
+File Name: H:\website copy\ondestek.com\themes\default\images\glengarry.jpg
+Content Type: image/jpeg
+
+Uri: https://ondestek.com/themes/default/images/is_ilani_sales.png
+File Name: H:\website copy\ondestek.com\themes\default\images\is_ilani_sales.png
+Content Type: image/png
+
+Uri: https://ssl.comodo.com/ssl-certificate-comparison
+File Name: H:\website copy\ondestek.com\ssl-certificate-comparison.html
+Content Type: text/html
+
+Uri: https://ondestek.com/themes/default/popup/demos/img/notification_banner.jpg
+File Name: H:\website copy\ondestek.com\themes\default\popup\demos\img\notification_banner.jpg
+Content Type: image/jpeg
+
